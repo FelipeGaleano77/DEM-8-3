@@ -2,8 +2,8 @@
 
 .texto{
    
-    font-size: 50px;
-    padding-top: 140px;
+    font-size: 34px;
+    padding-top: 95px;
     text-align: justify;
     color: rgb(20, 20, 20);
 }
@@ -12,10 +12,111 @@
      
 }
 body{
-    background-image: url("Fondo.jpg");
+    background-image: url("Fondo.jpg2");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+
+}
+.israel{
+height: 600px;
+width: 1500px;
+background-image: url("israel");
+float:half;
+background-repeat:no-repeat ;
+
+}
+.paz{  
+
+
+    height: 350px;
+    width: 200px;
+    background-image: url("paz.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+    
+}
+
+.escuchar{  
+
+
+    height: 450px;
+    width: 300px;
+    background-image: url("escuchar.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+    
+}
+
+.deacuerdo{  
+
+
+    height: 510px;
+    width: 400px;
+    background-image: url("deacuerdo.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+    
+}
+
+.violencia{  
+
+
+    height: 510px;
+    width: 400px;
+    background-image: url("violencia.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+    
+}
+
+.identidad{  
+
+
+    height: 510px;
+    width: 400px;
+    background-image: url("identidad.png");
+    float: half;
+    background-repeat: no-repeat;
+   
+    
+}
+
+
+.estereotipos{  
+
+
+    height: 510px;
+    width: 400px;
+    background-image: url("estereotipos.png");
+    float: half;
+    background-repeat: no-repeat;
+
+}
+.excel {
+
+    height: 400px;
+    width: 500px;
+    background-image: url("excel.png");
+    float: half;
+    background-repeat: no-repeat;  
+
+
+}
+ 
+
+.excel2 {
+
+    height: 400px;
+    width: 500px;
+    background-image: url("excel2.png");
+    float: half;
+    background-repeat: no-repeat;
+
 
 }
